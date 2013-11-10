@@ -1,0 +1,1 @@
+This project implements classes hierarchy to operate with mathematical expressions. Architecture allows to extend project for work with any type of expressions and any type of their representations. This project was written in the educational purposes, so it can may contain a number imperfections.
